@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">私の冷蔵庫</string>
+    <string name="title_home">新規追加</string>
+    <string name="title_dashboard">内容物一覧</string>
+    <string name="title_notifications">今日のメニュー</string>
+</resources>
